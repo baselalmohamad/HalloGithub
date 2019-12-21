@@ -5,6 +5,8 @@ public class HelloGitHub {
     System.out.println("first ");
 
     System.out.println("second");
+    SecondClass p=new SecondClass();
+    p.print();
 
   }
 
